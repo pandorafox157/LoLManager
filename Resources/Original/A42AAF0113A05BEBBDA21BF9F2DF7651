@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FontTypes>
+
+	<!-- This file associates a font type with different types in different locales-->
+	<!-- The only attribute that can have whitespace is "Type"-->
+	<FontType Name="Regular">
+		<Locale Locale="en_us" Type="Arial" Resource="data/fonts/Arial.TTF" Bold="false" Italic="false" Mipped="true"/>
+		<Locale Locale="ko_kr" Type="UttumDotum" Resource="data/fonts/UttumDotum.TTF" Bold="false" Italic="false" Mipped="true"/>
+		<Locale Locale="th_th" Type="Tahoma" Resource="data/fonts/Tahoma.TTF" Bold="false" Italic="false" Mipped="true"/>
+		<Locale Locale="ro_ro" Type="Arial" Resource="data/fonts/Arial.TTF" Bold="false" Italic="false" Mipped="true"/> 
+		<Locale Locale="vn_vn" Type="DejaVu Sans" Resource="data/fonts/DejaVuSans.TTF" Bold="false" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_cn" Type="FZLanTingHei-L-GBK" Resource="data/fonts/FZLTXIHK.TTF" Bold="false" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_my" Type="FZLanTingHei-L-GBK" Resource="data/fonts/FZLTXIHK.TTF" Bold="false" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_tw" Type="FZXHYSZK" Resource="data/fonts/FZXHYSZK.TTF" Bold="false" Italic="false" Mipped="true"/>
+	</FontType>
+	
+	<FontType Name="RegularBold">
+		<Locale Locale="en_us" Type="Arial" Resource="data/fonts/ArialBD.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="ko_kr" Type="UttumDotum" Resource="data/fonts/UttumDotum.TTF" Bold="false" Italic="false" Mipped="true"/>
+		<Locale Locale="th_th" Type="Tahoma" Resource="data/fonts/Tahoma.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="ro_ro" Type="Arial" Resource="data/fonts/ArialBD.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="vn_vn" Type="DejaVu Sans" Resource="data/fonts/DejaVuSans.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_cn" Type="FZLanTingHei-L-GBK" Resource="data/fonts/FZLTXIHK.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_my" Type="FZLanTingHei-L-GBK" Resource="data/fonts/FZLTXIHK.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_tw" Type="FZXHYSZK" Resource="data/fonts/FZXHYSZK.TTF" Bold="false" Italic="false" Mipped="true"/>
+	</FontType>
+	
+	<FontType Name="SpiegelBold">
+		<Locale Locale="en_us" Type="SpiegelBold" Resource="data/fonts/SpiegelCDB.OTF" Bold="false" Italic="false" Mipped="true"/>
+		<Locale Locale="el_gr" Type="Arial" Resource="data/fonts/ArialBD.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="ru_ru" Type="Arial" Resource="data/fonts/ArialBD.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="ko_kr" Type="UttumDotum" Resource="data/fonts/UttumDotum.TTF" Bold="false" Italic="false" Mipped="true"/>
+		<Locale Locale="th_th" Type="Tahoma" Resource="data/fonts/Tahoma.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="ro_ro" Type="Arial" Resource="data/fonts/ArialBD.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="vn_vn" Type="DejaVu Sans" Resource="data/fonts/DejaVuSans.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_cn" Type="FZLanTingHei-L-GBK" Resource="data/fonts/FZLTXIHK.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_my" Type="FZLanTingHei-L-GBK" Resource="data/fonts/FZLTXIHK.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_tw" Type="FZXHYSZK" Resource="data/fonts/FZXHYSZK.TTF" Bold="false" Italic="false" Mipped="true"/>
+	</FontType>
+	
+	<FontType Name="SpiegelReg">
+		<Locale Locale="en_us" Type="SpiegelReg" Resource="data/fonts/LucasFonts-SpiegelCdOT-Regular.otf" Bold="false" Italic="false" Mipped="true"/>
+		<Locale Locale="el_gr" Type="Arial" Resource="data/fonts/ArialBD.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="ru_ru" Type="Arial" Resource="data/fonts/ArialBD.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="ko_kr" Type="UttumDotum" Resource="data/fonts/UttumDotum.TTF" Bold="false" Italic="false" Mipped="true"/>
+		<Locale Locale="th_th" Type="Tahoma" Resource="data/fonts/Tahoma.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="ro_ro" Type="Arial" Resource="data/fonts/ArialBD.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="vn_vn" Type="DejaVu Sans" Resource="data/fonts/DejaVuSans.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_cn" Type="FZLanTingHei-L-GBK" Resource="data/fonts/FZLTXIHK.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_my" Type="FZLanTingHei-L-GBK" Resource="data/fonts/FZLTXIHK.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_tw" Type="FZXHYSZK" Resource="data/fonts/FZXHYSZK.TTF" Bold="false" Italic="false" Mipped="true"/>
+	</FontType>
+	
+	<FontType Name="SpiegelSemi">
+		<Locale Locale="en_us" Type="SpiegelSemi" Resource="data/fonts/LucasFonts-SpiegelCdOT-SemiBold.otf" Bold="false" Italic="false" Mipped="true"/>
+		<Locale Locale="el_gr" Type="Arial" Resource="data/fonts/ArialBD.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="ru_ru" Type="Arial" Resource="data/fonts/ArialBD.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="ko_kr" Type="UttumDotum" Resource="data/fonts/UttumDotum.TTF" Bold="false" Italic="false" Mipped="true"/>
+		<Locale Locale="th_th" Type="Tahoma" Resource="data/fonts/Tahoma.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="ro_ro" Type="Arial" Resource="data/fonts/ArialBD.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="vn_vn" Type="DejaVu Sans" Resource="data/fonts/DejaVuSans.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_cn" Type="FZLanTingHei-L-GBK" Resource="data/fonts/FZLTXIHK.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_my" Type="FZLanTingHei-L-GBK" Resource="data/fonts/FZLTXIHK.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="zh_tw" Type="FZXHYSZK" Resource="data/fonts/FZXHYSZK.TTF" Bold="false" Italic="false" Mipped="true"/>
+	</FontType>
+	
+	<FontType Name="LargeBold">
+		<Locale Locale="en_us" Type="Microsoft YaHei" Resource="data/fonts/msyhbd.TTF" Bold="true" Italic="false" Mipped="false"/>
+		<Locale Locale="ko_kr" Type="UttumDotum" Resource="data/fonts/UttumDotum.TTF" Bold="false" Italic="false" Mipped="false"/>
+		<Locale Locale="th_th" Type="Tahoma" Resource="data/fonts/Tahoma.TTF" Bold="true" Italic="false" Mipped="false"/> 
+		<Locale Locale="ro_ro" Type="Arial" Resource="data/fonts/ArialBD.TTF" Bold="true" Italic="false" Mipped="true"/>
+		<Locale Locale="vn_vn" Type="DejaVu Sans" Resource="data/fonts/DejaVuSans.TTF" Bold="true" Italic="false" Mipped="false"/>
+		<Locale Locale="zh_cn" Type="FZDaHei-B02" Resource="data/fonts/FZDHTK.TTF" Bold="false" Italic="false" Mipped="false"/>
+		<Locale Locale="zh_my" Type="FZDaHei-B02" Resource="data/fonts/FZDHTK.TTF" Bold="false" Italic="false" Mipped="false"/>
+		<Locale Locale="zh_tw" Type="FZLanTingHei-B" Resource="data/fonts/FZLTCH.TTF" Bold="false" Italic="false" Mipped="false"/>
+	</FontType>
+	
+	
+</FontTypes>

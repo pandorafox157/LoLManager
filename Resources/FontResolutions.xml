@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FontResolutions>
+
+	<!-- The naming standard used here is FONTSIZE_OUTLINESIZE_AUTOSCALE-->
+	
+	<!-- Manual font sizing for different resolutions-->
+	
+	<FontResolution Name="24_2" AutoScale="false">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="24" OutlineSize="2"/>
+			<Resolution ScreenHeight="1024" FontSize="22" OutlineSize="2"/>
+			<Resolution ScreenHeight="800" FontSize="20" OutlineSize="1"/>
+			<Resolution ScreenHeight="720" FontSize="18" OutlineSize="1"/>
+		</locale>
+		<locale Name="zh_CN">
+			<Resolution ScreenHeight="1080" FontSize="22" OutlineSize="2"/>
+			<Resolution ScreenHeight="1024" FontSize="20" OutlineSize="2"/>
+			<Resolution ScreenHeight="800" FontSize="18" OutlineSize="1"/>
+			<Resolution ScreenHeight="720" FontSize="16" OutlineSize="1"/>
+		</locale>
+	</FontResolution>	
+	
+	<!-- Auto font sizing for different resolutions-->
+	<!-- You can put as many resolution entries in here as you want, but the autoscale will only care about the first one.-->
+	<FontResolution Name="50_4_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="50" OutlineSize="4"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="40_3_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="40" OutlineSize="3"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="36_6_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="36" OutlineSize="6"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="36_4_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="36" OutlineSize="4"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="32_2_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="32" OutlineSize="2"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="30_2_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="30" OutlineSize="2"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="25_4_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="25" OutlineSize="4"/>
+		</locale>
+	</FontResolution>	
+	<FontResolution Name="25_2_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="25" OutlineSize="2"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="24_4_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="24" OutlineSize="4"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="25_3_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="24" OutlineSize="3"/>
+		</locale>
+	</FontResolution>	
+	<FontResolution Name="24_2_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="24" OutlineSize="2"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="24_1_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="24" OutlineSize="1"/>
+		</locale>
+	</FontResolution>	
+	<FontResolution Name="20_2_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="20" OutlineSize="2"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="20_1_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="20" OutlineSize="2"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="19_2_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="19" OutlineSize="2"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="19_1_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="19" OutlineSize="1"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="18_3_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="18" OutlineSize="3"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="18_1_Normal" AutoScale="false">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1200" FontSize="12" OutlineSize="1"/>
+			<Resolution ScreenHeight="1080" FontSize="12" OutlineSize="1"/>
+			<Resolution ScreenHeight="1050" FontSize="12" OutlineSize="1"/>			
+			<Resolution ScreenHeight="1024" FontSize="12" OutlineSize="1"/>
+			<Resolution ScreenHeight="960" FontSize="12" OutlineSize="1"/>
+			<Resolution ScreenHeight="900" FontSize="12" OutlineSize="1"/>			
+			<Resolution ScreenHeight="864" FontSize="12" OutlineSize="1"/>	
+			<Resolution ScreenHeight="800" FontSize="12" OutlineSize="1"/>
+			<Resolution ScreenHeight="768" FontSize="12" OutlineSize="1"/> 
+			<Resolution ScreenHeight="720" FontSize="12" OutlineSize="1"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="16_2_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="16" OutlineSize="2"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="16_1_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="16" OutlineSize="1"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="16_0_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="16" OutlineSize="0"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="15_1_Normal" AutoScale="false">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1200" FontSize="9" OutlineSize="1"/>
+			<Resolution ScreenHeight="1080" FontSize="9" OutlineSize="1"/>
+			<Resolution ScreenHeight="1050" FontSize="9" OutlineSize="1"/>			
+			<Resolution ScreenHeight="1024" FontSize="9" OutlineSize="1"/>
+			<Resolution ScreenHeight="960" FontSize="9" OutlineSize="1"/>
+			<Resolution ScreenHeight="900" FontSize="9" OutlineSize="1"/>			
+			<Resolution ScreenHeight="864" FontSize="9" OutlineSize="1"/>	
+			<Resolution ScreenHeight="800" FontSize="9" OutlineSize="1"/>
+			<Resolution ScreenHeight="768" FontSize="9" OutlineSize="1"/> 
+			<Resolution ScreenHeight="720" FontSize="9" OutlineSize="1"/>
+		</locale>
+	</FontResolution>		
+	<FontResolution Name="15_0_Normal" AutoScale="false">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1200" FontSize="9" OutlineSize="0"/>
+			<Resolution ScreenHeight="1080" FontSize="9" OutlineSize="0"/>
+			<Resolution ScreenHeight="1050" FontSize="9" OutlineSize="0"/>			
+			<Resolution ScreenHeight="1024" FontSize="9" OutlineSize="0"/>
+			<Resolution ScreenHeight="960" FontSize="9" OutlineSize="0"/>
+			<Resolution ScreenHeight="900" FontSize="9" OutlineSize="0"/>			
+			<Resolution ScreenHeight="864" FontSize="9" OutlineSize="0"/>	
+			<Resolution ScreenHeight="800" FontSize="9" OutlineSize="0"/>
+			<Resolution ScreenHeight="768" FontSize="9" OutlineSize="0"/> 
+			<Resolution ScreenHeight="720" FontSize="9" OutlineSize="0"/>
+		</locale>
+	</FontResolution>		
+	<FontResolution Name="14_1_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="14" OutlineSize="1"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="14_0_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="14" OutlineSize="0"/>
+		</locale>
+	</FontResolution>	
+	<FontResolution Name="13_1_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="13" OutlineSize="1"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="13_0_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="13" OutlineSize="0"/>
+		</locale>
+	</FontResolution>	
+	<FontResolution Name="12_2_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="12" OutlineSize="2"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="12_1_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="12" OutlineSize="1"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="12_0_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="12" OutlineSize="0"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="11_1_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="11" OutlineSize="1"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="9_1_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="9" OutlineSize="1"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="8_1_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="8" OutlineSize="1"/>
+		</locale>
+	</FontResolution>
+	<FontResolution Name="8_0_Auto" AutoScale="true">
+		<locale Name="en_us">
+			<Resolution ScreenHeight="1080" FontSize="8" OutlineSize="0"/>
+		</locale>
+	</FontResolution>
+</FontResolutions>

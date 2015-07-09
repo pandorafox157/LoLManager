@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FontDescriptions>
+	<Font Name="UnspecifiedFont" Type="RegularBold" Resolution="25_2_Auto" >
+		<Display Color="255,0,255,255" OutlineColor="0,255,0,255" ShadowColor="0,0,0,255"/>		
+	</Font>
+	<Font Name="Heal" Type="RegularBold" Resolution="24_2_Auto" >
+		<Display Color="38,240,38,255" OutlineColor="35,35,35,255"/>			
+		</Font>
+	<Font Name="ManaHeal" Type="RegularBold" Resolution="9_1_Auto" >
+		<Display Color="18,116,222,255" OutlineColor="3,20,38,255"/>			
+	</Font>
+	<Font Name="ManaDamage" Type="RegularBold" Resolution="12_1_Auto">
+		<Display Color="18,116,222,255" OutlineColor="3,20,38,255"/>			
+	</Font>
+	<Font Name="Dodge" Type="RegularBold" Resolution="16_2_Auto" >
+		<Display Color="230,230,230,255" OutlineColor="10,20,50,255"/>			
+	</Font>
+	<Font Name="Gold" Type="RegularBold" Resolution="19_1_Auto" >
+		<Display Color="240,206,36,255" OutlineColor="0,0,0,255" ShadowColor="0,0,0,255"/>		
+	</Font>
+	<Font Name="Special" Type="RegularBold" Resolution="24_2_Auto" >
+		<Display Color="255,255,38,255"/>		
+	</Font>
+	<Font Name="Experience" Type="RegularBold" Resolution="19_1_Auto" >
+		<Display Color="175,175,175,255" OutlineColor="10,10,10,255"/>		
+	</Font>
+	<Font Name="Level" Type="Regular" Resolution="24_2_Auto" >
+		<Display Color="38,250,255,255" OutlineColor="0,0,50,255"/>		
+	</Font>
+	<Font Name="Invulnerable" Type="RegularBold" Resolution="19_2_Auto" >
+		<Display Color="230,230,230,255" OutlineColor="35,35,35,255" />		
+	</Font>
+	<Font Name="QuestReceived" Type="Regular" Resolution="24_2_Auto" >
+		<Display Color="38,174,255,255" OutlineColor="40,20,0,255"/>		
+	</Font>
+	<Font Name="QuestComplete" Type="Regular" Resolution="24_2_Auto" >
+		<Display Color="38,255,114,255" OutlineColor="40,20,0,255"/>		
+	</Font>
+	<Font Name="Disable" Type="RegularBold" Resolution="50_4_Auto" >
+		<Display Color="230,230,230,255" OutlineColor="35,35,35,255" ShadowColor="40,40,40,255"/>		
+	</Font>
+	<Font Name="Score" Type="Regular" Resolution="24_2_Auto" >
+		<Display Color="230,230,230,255" OutlineColor="40,20,0,255"/>		
+	</Font>
+	<Font Name="Critical" Type="RegularBold" Resolution="36_4_Auto" >
+		<Display Color="255,20,20,255" OutlineColor="51,8,8,255"/>			
+	<ColorBlindDisplay Color="250,77,36,255" OutlineColor="51,15,7,255"/>        
+	</Font>	
+	<Font Name="PhysicalDamage" Type="RegularBold" Resolution="25_3_Auto">
+		<Display Color="240,36,36,255" OutlineColor="51,8,8,255"/>			
+		<ColorBlindDisplay Color="250,77,36,255" OutlineColor="51,15,7,255"/>
+	</Font>
+	<Font Name="MagicalDamage" Type="RegularBold" Resolution="25_3_Auto">
+		<Display Color="179,107,255,255" OutlineColor="38,22,54,255"/>	
+	</Font>
+	<Font Name="TrueDamage" Type="RegularBold" Resolution="25_4_Auto" >
+		<Display Color="245,245,245,255" OutlineColor="0,0,0,255"/>					
+	</Font>
+	<Font Name="EnemyPhysicalDamage" Type="Regular" Resolution="19_1_Auto" >
+		<Display Color="240,36,36,255" OutlineColor="51,8,8,255"/>			
+	<ColorBlindDisplay Color="250,77,36,255" OutlineColor="51,15,7,255"/>
+	</Font>
+	<Font Name="EnemyMagicalDamage" Type="Regular" Resolution="19_1_Auto" >
+		<Display Color="179,107,255,255" OutlineColor="38,22,54,255"/>
+	</Font>
+	<Font Name="EnemyTrueDamage" Type="Regular" Resolution="19_1_Auto" >
+		<Display Color="245,245,245,255" OutlineColor="0,0,0,255"/>					
+	</Font>
+	<Font Name="EnemyCritical" Type="RegularBold" Resolution="32_2_Auto" >
+		<Display Color="255,20,20,255" OutlineColor="51,8,8,255"/>
+		<ColorBlindDisplay Color="250,77,36,255" OutlineColor="51,15,7,255"/>
+	</Font>
+	<Font Name="Countdown" Type="RegularBold" Resolution="19_2_Auto">
+		<Display Color="230,50,30,255" OutlineColor="0,0,0,255" ShadowColor="0,0,0,255"/>			
+		</Font>
+	<Font Name="LegacyDamage" Type="RegularBold" Resolution="15_1_Normal">
+		<Display Color="200,0,70,255" ShadowColor="0,0,0,255"/>
+	</Font>
+	<Font Name="LegacyCritical" Type="RegularBold" Resolution="18_1_Normal">
+		<Display Color="255,0,30,255" OutlineColor="30,0,0,255" ShadowColor="0,0,0,255"/>
+	</Font>     
+	<Font Name="Debug" Type="RegularBold" Resolution="19_2_Auto">
+		<Display Color="255,255,255,255" OutlineColor="0,0,0,255" ShadowColor="0,0,0,255"/>
+	</Font>     
+	<Font Name="AnnouncementEpic" Type="LargeBold" Resolution="20_2_Auto">
+		<Display Color="255,255,255,255" OutlineColor="255,0,0,255" ShadowColor="0,0,0,255"/>		
+	</Font>	
+	<Font Name="AnnouncementLargeZoomIn" Type="LargeBold" Resolution="30_2_Auto">
+		<Display Color="255,255,255,255" OutlineColor="255,0,0,255" ShadowColor="0,0,0,255"/>		
+	</Font>	
+	<Font Name="AnnouncementPentakill" Type="LargeBold" Resolution="40_3_Auto">
+		<Display Color="255,255,255,255" OutlineColor="255,0,0,255" ShadowColor="0,0,0,255"/>		
+	</Font>	
+	<Font Name="AnnouncementMajor" Type="LargeBold" Resolution="20_1_Auto">
+		<Display Color="255,255,255,255" OutlineColor="255,0,0,255" ShadowColor="0,0,0,255"/>		
+	</Font>	
+	<Font Name="AnnouncementMinor" Type="LargeBold" Resolution="11_1_Auto">
+		<Display Color="255,255,255,255" OutlineColor="255,0,0,255" ShadowColor="0,0,0,255"/>		
+	</Font>	
+	<Font Name="AnnouncementTencentWarning" Type="LargeBold" Resolution="20_1_Auto">
+		<Display Color="255,255,255,255" OutlineColor="255,0,0,255" ShadowColor="0,0,0,255"/>            
+	</Font>
+	<Font Name="OMW" Type="RegularBold" Resolution="18_1_Normal" >
+		<Display Color="81,235,198,255" OutlineColor="40,20,0,255"/>		
+	</Font>
+</FontDescriptions>
