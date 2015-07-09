@@ -1,0 +1,40 @@
+		
+"Arial" "DATA\Fonts\arialbd.ttf" bold
+"Arial" "DATA\Fonts\arial.ttf"
+"Arial Black" "DATA\Fonts\ariblk.ttf"
+"Arial Unicode MS" "DATA\Fonts\ARIALUNI.ttf"
+
+"Verdana" "DATA\Fonts\verdanab.ttf" bold
+"Verdana" "DATA\Fonts\verdana.ttf"
+"Microsoft YaHei" "DATA\Fonts\msyhbd.ttf" bold
+"Microsoft YaHei" "DATA\Fonts\msyh.ttf"
+
+"Times New Roman" "DATA\Fonts\times.ttf"
+"Tahoma" "DATA\Fonts\tahoma.ttf"
+
+"DejaVu Sans" "DATA\Fonts\DejaVuSans.ttf"
+"DejaVu Sans" "DATA\Fonts\DejaVuSans-Bold.ttf" bold
+
+"ITC Friz Quadrata" "DATA\Fonts\FRQITC01.ttf"
+"ITC Friz Quadrata" "DATA\Fonts\FRQITCBT.ttf" bold
+
+"FZDaHei-B02" "DATA\Fonts\FZDHTK.ttf"
+"FZLanTingHei-B" "DATA\Fonts\FZLTCH.ttf"
+"FZLanTingHei-L-GBK" "DATA\Fonts\FZDHTK.ttf" bold
+"FZLanTingHei-L-GBK" "DATA\Fonts\FZDHTK.ttf"
+"FZXiHeiGB-YH01" "DATA\Fonts\fzxhgb_yh.ttf"
+"FZXHYSZK" "DATA\Fonts\FZXHYSZK.ttf"
+
+"Garuda" "DATA\Fonts\Garuda.ttf"
+"Garuda" "DATA\Fonts\Garuda-Bold.ttf" bold
+
+"UTM Essendine Caps" "DATA\Fonts\UTMEssendineCaps.ttf"
+"UttumDotum" "DATA\Fonts\UttumDotum.ttf"
+
+"Gill Sans MT Pro Medium" "DATA\Fonts\GillSansMTPro-Medium.otf"
+"Gill Sans MT Pro Cyr Medium" "DATA\Fonts\GillSansMTProCyr-Medium.otf"
+"Gill Sans MT Pro Grk Medium" "DATA\Fonts\GillSansMTProGrk-Medium.otf"
+
+"SpiegelBold" "DATA\Fonts\SpiegelCDB.otf"
+"SpiegelReg" "DATA\Fonts\LucasFonts-SpiegelCdOT-Regular.otf"
+"SpiegelSemi" "DATA\Fonts\LucasFonts-SpiegelCdOT-SemiBold.otf"
